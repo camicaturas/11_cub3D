@@ -35,9 +35,9 @@ To run the program:
 The program takes a map file as an argument. Maps are available in the `maps` directory. There is a valid map which the program should run smoothly with, and invalid maps which the program should reject.
 For example:
 
-- `./cub3d maps/valid/subject_map.cub` should run.
+./cub3d <assets/maps/map0.cub> should run.
 
-- `./cub3d maps/invalid/no_color.cub` should print an error and abort.
+./cub3d <assets/maps/map3.cub> should print an error and abort.
 
 
 ### Controls
@@ -49,6 +49,7 @@ For example:
 |        D        | move right      |
 |   left arrow    | rotate left     |
 |   right arrow   | rotate right    |
+|       esc       | Quit game       |
 -------------------------------------------------
 
 
