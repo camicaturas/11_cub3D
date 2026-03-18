@@ -20,6 +20,18 @@ To run the program:
 ./cub3d <assets/maps/map0.cub>
 ```
 
+### Available Maps
+| Map Name         |   
+|------------------|
+| map0.cub         |
+| map1.cub         |
+| map8.cub         |
+| validmap.cub     |
+| validmap6.cub    |
+| validmap7.cub    |
+--------------------
+
+
 The program takes a map file as an argument. Maps are available in the `maps` directory. There is a valid map which the program should run smoothly with, and invalid maps which the program should reject.
 For example:
 
