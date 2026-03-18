@@ -17,7 +17,7 @@ If library needs to adjust permissions use chmod +x.
 To run the program:
 
 ```shell
-./cub3d <path/to/map.cub>
+./cub3d <assets/maps/map0.cub>
 ```
 
 The program takes a map file as an argument. Maps are available in the `maps` directory. There is a valid map which the program should run smoothly with, and invalid maps which the program should reject.
