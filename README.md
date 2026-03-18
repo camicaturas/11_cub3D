@@ -25,6 +25,7 @@ To run the program:
 |------------------|
 | map0.cub         |
 | map1.cub         |
+| map3.cub         |
 | map8.cub         |
 | validmap.cub     |
 | validmap6.cub    |
