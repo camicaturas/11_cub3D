@@ -4,8 +4,8 @@ representation of the inside of a maze from a
 first-person perspective using the Ray-Casting principles
 replicating the style of Wolfenstein 3D game (1992).
 
-![Alt text](assets/screen1.png)
-![Alt text](assets/screen2.png)
+![Screen1](assets/screen1.png)
+![Screen2](assets/screen2.png)
 
 ### How to Run
 
